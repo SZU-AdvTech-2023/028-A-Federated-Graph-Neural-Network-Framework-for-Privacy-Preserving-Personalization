@@ -1,0 +1,10 @@
+@article{REPO028,
+    author = "Wu, Chuhan and Wu, Fangzhao and Lyu, Lingjuan and Qi, Tao and Huang, Yongfeng and Xie, Xing",
+    journal = "Nature Communications",
+    number = "1",
+    pages = "3091",
+    publisher = "Nature Publishing Group UK London",
+    title = "{A Federated Graph Neural Network Framework for Privacy-Preserving Personalization}",
+    volume = "13",
+    year = "2022"
+}
